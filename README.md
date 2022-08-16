@@ -1,5 +1,5 @@
 # Caeser-Cipher-Decrypter
-Decrypts a given Caeser Cipher\
+Decrypts a given Caeser Cipher
 
 Example: \
 \
@@ -20,4 +20,4 @@ Is it "attack"?\
 y/n: y\
 \
 Ciphertext cracked in 7 tries.\
-Press any key to exit...\
+Press any key to exit...
